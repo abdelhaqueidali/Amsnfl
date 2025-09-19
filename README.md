@@ -25,4 +25,6 @@ Features
  * *i/ⵢⵉ : When you write *i where you use construct state of the plural words that start with "i" so that the it becomes "yi" in Latin but just ⵉ in Tifinagh. Check ✅ this option so that it becomes also ⵢⵉ in Tifinagh, the same happens if you write "yi" it will give ⵢⵉ. 
 
   # Contribute :
-This app was built using Sketchware Pro. The source code is not included in this repository as I regularly make updates and fixes. If you're interested in reviewing the code or collaborating on a more advanced version, please contact me. The app's logic is based on understanding the conversion rules between different scripts, so recreating it from scratch is straightforward if you're familiar with the process. I may help with that.
+This application was developed using Sketchware Pro, and the source code is subject to frequent updates. For this reason, it is not currently hosted in this repository.
+
+​I believe the core logic of the app, which focuses on the specific conversion rules between the Tifinagh, Latin, Arabic, and Braille scripts, is more valuable than the code itself. If you're interested in re-creating a better version or simply want to review the code, please feel free to reach out. I'm open to providing guidance and the source files.
